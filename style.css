@@ -1,0 +1,9 @@
+body {
+	max-width: 70em;
+	padding-inline: 1em;
+	margin-inline: auto;
+}
+
+.tiny {
+	font-size: 0.9em;
+}
